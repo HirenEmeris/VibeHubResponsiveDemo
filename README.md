@@ -1,4 +1,4 @@
-# VibeHub — Responsive Web Design Activity
+# VibeHub: Responsive Web Design Activity
 
 Welcome to **VibeHub**! 🎧
 
